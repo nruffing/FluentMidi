@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentMidi", "FluentMidi\FluentMidi.csproj", "{9DDBA6A0-8E04-4671-BA0E-B9171AF2488F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentMidi.Tests", "FluentMidi.Tests\FluentMidi.Tests.csproj", "{6F643334-FB0A-4672-9AC8-7D78D4AA7668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DDBA6A0-8E04-4671-BA0E-B9171AF2488F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDBA6A0-8E04-4671-BA0E-B9171AF2488F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDBA6A0-8E04-4671-BA0E-B9171AF2488F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDBA6A0-8E04-4671-BA0E-B9171AF2488F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F643334-FB0A-4672-9AC8-7D78D4AA7668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F643334-FB0A-4672-9AC8-7D78D4AA7668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F643334-FB0A-4672-9AC8-7D78D4AA7668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F643334-FB0A-4672-9AC8-7D78D4AA7668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6C7DE7A-A265-469A-BCCF-42BFB21A0320}
+	EndGlobalSection
+EndGlobal
