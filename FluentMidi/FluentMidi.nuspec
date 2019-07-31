@@ -10,6 +10,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A fluent library for sending MIDI control and patch change events. This library uses NAudio for MIDI functionality.</description>
     <copyright>Copyright 2019</copyright>
+    <license type="expression">MIT</license>
     <dependencies>
       <dependency id="NAudio" version="1.9.0" />
     </dependencies>
